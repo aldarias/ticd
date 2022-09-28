@@ -1,0 +1,11 @@
+GIt en lliurex
+
+- Instalar el cliente git. Poner en la terminal:
+sudo apt install git
+
+Clonar el repositorio
+git clone https://github.com/aldarias/ticd
+
+Descargar solo los cambios
+git pull
+
