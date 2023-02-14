@@ -1,0 +1,31 @@
+ANÁLISIS ERRORES TEST TEMA 3.
+
+1. Carpeta usuarios:
+Linux: /home/usuario1
+Windows: C:/usuarios/usuario1
+
+Partición: C:
+Tipos particiones: Primarias, Extendidas(Lógicas).
+Las particiones usan sistemas de archivos: ntfs(win), ext4(linux)
+
+2.  Sumar celdas: =suma(c6:c12)
+
+=promedio(c6:c12)=(c6+c7+c8+c9+c10+c11+c12)/7
+
+3. Base datos es un conjunto de información relacionada. 
+
+Es un conjunto de tablas relacionadas a través de sus atributos clave.
+
+4. Las referencias a celdas absolutas llevan un $ para que no mofique la fila o columna.
+5. En Hoja Calcullo cuando no cabe en la celda nos pone: #####.
+6. El botón copiar formato es una escoba eh calc.
+7. Impress y Powerpoint usan diapositivas.
+8. Crear documento nuevo en writer, pulsar el icono hoja rellena azul en la última versión o menú archivo - nuevo.
+9. Las imágenes jpg son de mapas de bits y cuando se reduce su tamaño tienes perdidas de bits y pierde calidad.
+10. Formato abierto comprimido es OGG y es de audio. El formato abierto sin compresión seria wav.
+11. En el gimp siempre está la ventana de la imagen y la caja de herramientas.
+
+
+
+
+
