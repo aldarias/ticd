@@ -1,3 +1,3 @@
-nom=Podcast-ticd-todos.pdf
+nom=Poscast-ticd7-0-Todos.pdf
 rm $nom
-pdfunite $(ls *.pdf) $nom
+pdfunite $(ls *.pdf)  $nom
