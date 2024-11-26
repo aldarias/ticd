@@ -1,0 +1,16 @@
+Proceso de creación de una presentación con IA
+
+1. Abrir chat gpt
+
+2. Adjuntar fichero pdf y añadir el promt para que genere la presentación en formato markdown
+
+3. Abrir Canva. Docs y pegar el texto generado por Chatgpt.
+Eliminar las #.
+Los apartados sangralos con una lista.
+Añadir foto al final.
+
+4- Pulsar Rediseño Mágico - Convertir en presetación
+En eligue un diseño Beta puedes ver como quedaria.
+
+Ejemplo:
+https://www.canva.com/design/DAGXl_m3LX4/1LCMmc8hvrPLA6fns6x99w/edit?utm_content=DAGXl_m3LX4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
