@@ -2,11 +2,24 @@ Proceso de creación de una presentación con IA
 
 1. Abrir chat gpt
 
-2. Adjuntar fichero pdf y añadir el promt para que genere la presentación en formato markdown
+2. Adjuntar fichero pdf y añadir el promt para que genere la presentación en formato markdown:
+
+Utilizando el fichero que se adjunta. Adjuntamos el pdf del podcast.
+Haz una presentación de 15 diapositivas con titulo y lista de elementos.
+La primera diapositiva deberá ser el titulo: Asignatura TICD. Tema 3.3 Presentaciones
+Autor Paco Aldarias Fecha 26-Nov
+Complementa el contenido con ejemplos e información de interés.
+Añade una diapositiva que hable de prezy y otra de genially.
+La duración de cada diapositiva deberá ser de 3 minutos.
+Las transiciones deben  ser con devanecimiento.
+Genera las presentaciones usando notación markdown.
+Las transiciones deben  ser con devanecimiento.
+Genera las presentaciones usando notación markdown.
+
 
 3. Abrir Canva. Docs y pegar el texto generado por Chatgpt.
 Eliminar las #.
-Los apartados sangralos con una lista.
+Los apartados sangrarlos con una lista.
 Añadir foto al final.
 
 4- Pulsar Rediseño Mágico - Convertir en presetación
