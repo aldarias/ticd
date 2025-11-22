@@ -5,7 +5,7 @@ https://github.com/aldarias/ticd
 
 Puedes decargar todos los apuntes en github entrando en Code - Download Zip
 
-Curso 2023-24
+Curso 2025-26
 
 Licencia Creative Common CC
 BY-NC-SA
