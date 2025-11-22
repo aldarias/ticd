@@ -7,10 +7,9 @@ Puedes decargar todos los apuntes en github entrando en Code - Download Zip
 
 Curso 2025-26
 
-Licencia Creative Common CC
-BY-NC-SA
+Licencia Creative Common CC BY-NC-SA
 
-Reconocimiento-NoComercial-CompartirIgual.
+BY:Reconocimiento NC:No Comercial  SA:Compartir por Igual.
 
 * v. 1.0. 23-10-2021 Versión inicial
 * v. 1.1. 24-09-2022 Revisión 1
