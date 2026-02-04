@@ -1,0 +1,43 @@
+Basándose en la comparación de los documentos proporcionados, el fichero `TICD3-Arquitectura.pdf` (que se centra en la arquitectura, hardware, periféricos y redes) 
+proporciona información directa o conceptual que explica las siguientes preguntas del examen que se encuentra en el fichero `TICD08-11-exa25.pdf`:
+
+### Preguntas del examen cubiertas por `TICD3-Arquitectura.pdf`
+
+#### 1. Pregunta 3: Componente de refrigeración
+*   **Pregunta:** ¿Qué se emplea para facilitar el paso del calor desde el procesador al disipador? (0,33 puntos)
+*   **Contenido en el documento de Arquitectura:** El documento explica que el procesador se calienta mucho y que los sistemas de refrigeración 
+buscan reducir ese calor. Específicamente, en la subsección 3.2 "Sistemas de refrigeración", se menciona que se suele usar una **pasta térmica especial para facilitar el intercambio de calor** 
+desde la parte caliente que se desea disipar al aire a través del disipador.
+*   **Solución (Examen):** a) Pasta térmica.
+
+#### 2. Pregunta 19: Estándar físico en redes locales
+*   **Pregunta:** ¿Qué estándar físico se emplea en las redes locales? (0,33 puntos)
+*   **Contenido en el documento de Arquitectura:** En la Sección 8 "RED" y la subsección 8.1 "Puerto RJ-45 (redes ethernet)", se indica que el puerto RJ-45 
+se utiliza en las **redes cableadas de tecnología Ethernet**, que son las que se usan mayoritariamente en las casas y empresas.
+*   **Solución (Examen):** b) Ethernet.
+
+#### 3. Pregunta 23: Tipos de periféricos
+*   **Pregunta:** ¿Qué tipos de periféricos hay? (0,33 puntos)
+*   **Contenido en el documento de Arquitectura:** La Sección 4.1 "Clasificación de los periféricos" establece una clasificación principal de los periféricos: 
+Entrada, Salida, Almacenamiento y Comunicaciones. Además, presenta otra clasificación que incluye: Entrada, Salida y **Mixtos o E/S**. 
+La clasificación de **Entrada** y **Salida** es fundamental en este apartado.
+*   **Solución (Examen):** c) De entrada y de salida.
+
+#### 4. Pregunta 30: Software peligroso
+*   **Pregunta:** ¿Cuál de los siguientes programas es considerado peligroso para nuestros equipos informáticos? (0,38 puntos)
+*   **Contenido en el documento de Arquitectura:** Aunque el documento se centra principalmente en el *Hardware*, sí menciona el concepto de software 
+malicioso o peligroso en el contexto de la seguridad. Se menciona el término **`malweare`** al describir la seguridad que ofrece la UEFI, indicando que esta 
+interfaz es más segura ya que evita el inicio de sistemas operativos no autorizados para protegerse de *malweare* que se ejecuta al iniciar Windows.
+*   **Solución (Examen):** b) Malware.
+
+---
+
+### Preguntas del examen con conceptos relacionados en el documento de Arquitectura (pero sin respuesta directa)
+
+Además de los ejemplos anteriores, algunas preguntas contienen conceptos que se mencionan tangencialmente en el documento de arquitectura, aunque el 
+documento no proporciona la información específica necesaria para responder a la pregunta del examen:
+
+*   **Pregunta 12: Tecnología de los primeros ordenadores:** Pregunta sobre relés o tubos de vacío. El documento de arquitectura menciona que el procesador es un chip 
+formado por millones de **transistores**, pero no detalla la tecnología de las primeras generaciones de computadoras.
+*   **Pregunta 18 y 21: TCP/IP y protocolos de red:** Ambas preguntas se refieren al protocolo **TCP/IP**. El documento de arquitectura trata ampliamente sobre redes (Sección 8 "RED") 
+y los componentes necesarios para la comunicación, como los puertos RJ-45 (redes ethernet), pero no define las funciones específicas de TCP e IP por separado ni nombra explícitamente a TCP/IP como el protocolo de comunicación por defecto en LANs.
