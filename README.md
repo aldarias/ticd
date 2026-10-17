@@ -1,4 +1,4 @@
-Apuntes de  Tratamiento de la informaci髇 y competencia digital (TICD)
+Apuntes de  Tratamiento de la informaci贸n y competencia digital (TICD)
 de Acceso a Ciclos Formativos de Grado Superior (ACFGS)
 
 https://github.com/aldarias/ticd
@@ -7,15 +7,12 @@ Puedes decargar todos los apuntes en github entrando en Code - Download Zip
 
 Curso 2025-26
 
-Licencia Creative Common CC BY-NC-SA
 
-BY:Reconocimiento NC:No Comercial  SA:Compartir por Igual.
-
-* v. 1.0. 23-10-2021 Versi髇 inicial
-* v. 1.1. 24-09-2022 Revisi髇 1
-* v. 1.2. 25-09-2023 Revisi髇 2
-* v. 1.3. 25-09-2024 Revisi髇 3
-* v. 2.0. 25-09-2025 Revisi髇 4 Nuevo Curriculum
+* v. 1.0. 23-10-2021 Versi贸n inicial
+* v. 1.1. 24-09-2022 Revisi贸n 1
+* v. 1.2. 25-09-2023 Revisi贸n 2
+* v. 1.3. 25-09-2024 Revisi贸n 3
+* v. 2.0. 25-09-2025 Revisi贸n 4 Nuevo Curriculum
 
 Por Paco Aldarias Raya
 
